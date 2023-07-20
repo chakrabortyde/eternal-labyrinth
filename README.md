@@ -1,4 +1,4 @@
-# Project 5 - Graphical Adventure Game
+# Eternal Labyrinth
 
 ## Overview
 According to Wikipedia in their description of an adventure game, "the player takes on the role of the protagonist in an interactive story driven by exploration and/or puzzle-solving". In a text-based (Links to an external site.) game, the way the game is played is through printable text data, usually through a console.
