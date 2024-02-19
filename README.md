@@ -1,6 +1,6 @@
 # Eternal Labyrinth
 
-<img src="./docs/player-navigating-the-dungeon.png">
+<img src="https://raw.githubusercontent.com/chakrabortyde/eternal-labyrinth/main/docs/player-navigating-the-dungeon.png">
 
 ## Overview
 According to Wikipedia in their description of an adventure game, "the player takes on the role of the protagonist in an interactive story driven by exploration and/or puzzle-solving". In a text-based game, the way the game is played is through printable text data, usually through a console.
